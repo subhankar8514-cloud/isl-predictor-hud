@@ -1,0 +1,56 @@
+name: Update ISL data
+
+# Runs once a day and after every push to the data script.
+# Needs one repository secret: GOAL_API_KEY (Settings -> Secrets and variables -> Actions).
+# Optional repository variable: LEAGUE_ID.
+
+on:
+  schedule:
+    # 21:00 UTC = 02:30 IST, so the table is fresh before the next match day
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+    inputs:
+      source:
+        description: 'Data source (goal = your GOAL API key, thesportsdb = free fallback)'
+        required: false
+        default: 'goal'
+  push:
+    paths:
+      - 'scripts/update_data.py'
+      - '.github/workflows/update-isl.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: isl-data-update
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch fixtures and results
+        env:
+          GOAL_API_KEY: ${{ secrets.GOAL_API_KEY }}
+          LEAGUE_ID: ${{ vars.LEAGUE_ID }}
+          DATA_SOURCE: ${{ github.event.inputs.source || 'goal' }}
+        run: python3 scripts/update_data.py
+
+      - name: Commit if the data changed
+        run: |
+          if git diff --quiet -- data/isl.json; then
+            echo "No change in data/isl.json"
+            exit 0
+          fi
+          git config user.name  "isl-hud-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/isl.json
+          git commit -m "data: refresh ISL fixtures ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push

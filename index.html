@@ -642,7 +642,7 @@
     </main>
 
     <div class="px-3 pb-2 pt-1 text-center text-[10px] text-cyan-300/40 font-mono">
-      <span id="hudFooter">ISL HUD v4.0 &middot; built 25 Nov 2026 &middot; Indian Super League 2026-27</span>
+      <span id="hudFooter">ISL HUD v4.1 &middot; built 25 Nov 2026 &middot; Indian Super League 2026-27</span>
     </div>
 
     <!-- ============================================================
@@ -1872,12 +1872,16 @@
         // right baseline team instead of falling back to derived-only stats.
         const TEAM_ALIASES = leagueCfg().aliases;
 
+        // Fold accents so "Atletico" matches "Atlético", "Alaves" matches "Alavés".
+        const foldName = s => String(s || '').toLowerCase()
+          .normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
+
         function findBaseMeta(name) {
-          const low = String(name || '').toLowerCase().trim();
+          const low = foldName(name);
           if (!low) return undefined;
           for (let i = 0; i < leagueCfg().teams.length; i++) {
             const t = leagueCfg().teams[i];
-            const keys = [t.name.toLowerCase()].concat(TEAM_ALIASES[t.name] || []);
+            const keys = [foldName(t.name)].concat((TEAM_ALIASES[t.name] || []).map(foldName));
             for (let k = 0; k < keys.length; k++) {
               if (low === keys[k] || low.includes(keys[k])) return t;
             }
@@ -2263,7 +2267,7 @@
         if (hb) hb.dataset.sort = c.hasCup ? 'cupPct' : 'top4Pct';
         if (hc) hc.dataset.sort = c.hasCup ? 'top6Pct' : 'relPct';
         set('syncLeagueLabel', `${c.label} LEAGUE ID`);
-        set('hudFooter', `${c.label} HUD v4.0 \u00b7 built 25 Nov 2026 \u00b7 ${c.full} ${c.season}`);
+        set('hudFooter', `${c.label} HUD v4.1 \u00b7 built 25 Nov 2026 \u00b7 ${c.full} ${c.season}`);
         document.title = `${c.label} // PREDICTOR HUD`;
         document.querySelectorAll('.league-btn').forEach(b => {
           const on = b.dataset.league === state.league;

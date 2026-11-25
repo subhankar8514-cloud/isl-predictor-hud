@@ -1441,7 +1441,9 @@
       }
 
       function runMonteCarloSimulation(nSims) {
-        if (state.isSimulating) return;
+        // A data import can land while a simulation is still running; queue it
+        // instead of dropping it, otherwise the table keeps showing stale numbers.
+        if (state.isSimulating) { state.simPending = true; return; }
         state.isSimulating = true;
 
         const btn = document.getElementById('executeSimBtn');
@@ -1640,6 +1642,10 @@
             btn.classList.remove('opacity-60');
             setTimeout(() => progWrap.classList.add('hidden'), 350);
 
+            if (state.simPending) {
+              state.simPending = false;
+              runMonteCarloSimulation(state.selectedSims);
+            }
             statusEl.textContent = 'COMPLETE';
             statusEl.className = 'text-[10px] text-hudGreen font-bold';
             document.getElementById('simExecMeta').innerHTML =
@@ -1886,15 +1892,21 @@
           return (sum + 4 * BG()) / (l6.length + 4);
         }
 
+        let baseUsed = 0;
         state.teams = Array.from(teamSet).map(name => {
           const base = findBaseMeta(name);
           const st = tbl[name];
+          // If the feed is behind the built-in snapshot (some providers lag a few
+          // matchweeks), keep whichever source has played more games, so the table
+          // never goes backwards. Rates and Elo still come from the live feed.
+          const useBase = !!(base && base.pld > st.pld);
+          if (useBase) baseUsed++;
           return {
             name,
-            pld: st.pld,
-            pts: st.pts,
-            gf: st.gf,
-            ga: st.ga,
+            pld: useBase ? base.pld : st.pld,
+            pts: useBase ? base.pts : st.pts,
+            gf: useBase ? base.gf : st.gf,
+            ga: useBase ? base.ga : st.ga,
             elo: elo[name] ?? (base ? base.elo : 1500),
             hAtt: smoothedRate(hGoalsHist[name], 'gf'),
             hDef: smoothedRate(hGoalsHist[name], 'ga'),
@@ -1909,6 +1921,7 @@
 
         rebuildTeamMap();
         state.fixtures = upcoming;
+        if (baseUsed) appendLog(`NOTE: ${baseUsed}/${state.teams.length} teams use the built-in table because the feed is behind.`);
 
         populateTeamSelects(upcoming[0]?.home || state.teams[0].name, upcoming[0]?.away || state.teams[1]?.name);
         renderFixtures();

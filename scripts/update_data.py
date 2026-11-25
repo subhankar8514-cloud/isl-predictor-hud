@@ -51,8 +51,13 @@ def http_json(url, headers=None, timeout=45):
 # GOAL API
 # --------------------------------------------------------------------------- #
 def fetch_goal(key, league_id):
-    out, offset, limit = [], 0, 50
-    for _ in range(15):
+    """Page through every fixture the API will give us (100 per page, 60 pages max).
+
+    The old 50 x 15 cap silently truncated big leagues: the EPL came back as exactly
+    750 rows with August/September missing, which made the current-season table wrong.
+    """
+    out, offset, limit = [], 0, 100
+    for _ in range(60):
         url = f"{GOAL_BASE}/leagues/{urllib.parse.quote(league_id)}/fixtures?limit={limit}&offset={offset}"
         payload = http_json(url, {"Authorization": f"Bearer {key}", "Accept": "application/json"})
         batch = payload if isinstance(payload, list) else (
@@ -65,7 +70,20 @@ def fetch_goal(key, league_id):
         if more is False or (more is None and len(batch) < limit):
             break
         offset += limit
-    return out
+
+    # de-duplicate: the API can repeat a fixture across pages
+    seen, unique = set(), []
+    for m in out:
+        home = _name(m.get("homeTeam") or m.get("home_team") or m.get("home"))
+        away = _name(m.get("awayTeam") or m.get("away_team") or m.get("away"))
+        ko = (m.get("utcDate") or m.get("kickoff_utc") or m.get("kickoffUtc")
+              or m.get("date") or m.get("startTime") or "")
+        key2 = (home, away, ko)
+        if key2 in seen:
+            continue
+        seen.add(key2)
+        unique.append(m)
+    return unique
 
 
 def _name(obj):

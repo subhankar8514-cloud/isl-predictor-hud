@@ -1,0 +1,8258 @@
+{
+ "updated_utc": "2026-11-25T07:21:08Z",
+ "source": "goal",
+ "count": 750,
+ "finished": 480,
+ "fixtures": [
+  {
+   "home": "Arsenal FC",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Brentford",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Leeds United",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Newcastle United",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Everton",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Fulham",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Manchester City",
+   "utcDate": "2027-05-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Chelsea",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Hull City",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Liverpool",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Arsenal FC",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Coventry City",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Sunderland",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Aston Villa",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Crystal Palace",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Ipswich Town",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Manchester United",
+   "utcDate": "2027-05-23T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Newcastle United",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Everton",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Fulham",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Manchester City",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Brentford",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Leeds United",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-05-15T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Manchester United",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Aston Villa",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Sunderland",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Hull City",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Ipswich Town",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Arsenal FC",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Liverpool",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Coventry City",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Crystal Palace",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Chelsea",
+   "utcDate": "2027-05-08T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Manchester United",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Aston Villa",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Everton",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Leeds United",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Chelsea",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Brentford",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Newcastle United",
+   "utcDate": "2027-05-01T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Coventry City",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Arsenal FC",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Fulham",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Manchester City",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Liverpool",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Crystal Palace",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Ipswich Town",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Sunderland",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Hull City",
+   "utcDate": "2027-04-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Aston Villa",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Leeds United",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Chelsea",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Sunderland",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Coventry City",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Manchester United",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Crystal Palace",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Liverpool",
+   "utcDate": "2027-04-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Manchester City",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Fulham",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Arsenal FC",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Everton",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Newcastle United",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Hull City",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Ipswich Town",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Brentford",
+   "utcDate": "2027-04-10T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Sunderland",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Coventry City",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Liverpool",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Chelsea",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Crystal Palace",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Manchester United",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Leeds United",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Aston Villa",
+   "utcDate": "2027-03-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Hull City",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Newcastle United",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Arsenal FC",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Manchester City",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Fulham",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Ipswich Town",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Everton",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Brentford",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-03-13T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Crystal Palace",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Ipswich Town",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Fulham",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Coventry City",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Hull City",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Aston Villa",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Everton",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Newcastle United",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Manchester United",
+   "utcDate": "2027-03-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Chelsea",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Sunderland",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Leeds United",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Manchester City",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Arsenal FC",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Brentford",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Liverpool",
+   "utcDate": "2027-02-27T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Fulham",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Crystal Palace",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Coventry City",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Ipswich Town",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Aston Villa",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Hull City",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Newcastle United",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Manchester United",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Everton",
+   "utcDate": "2027-02-20T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Liverpool",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Brentford",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Leeds United",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Sunderland",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Arsenal FC",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Chelsea",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Manchester City",
+   "utcDate": "2027-02-10T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Liverpool",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Hull City",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Coventry City",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Newcastle United",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Manchester City",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Chelsea",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Brentford",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Aston Villa",
+   "utcDate": "2027-02-06T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Manchester United",
+   "utcDate": "2027-02-01T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Arsenal FC",
+   "utcDate": "2027-01-31T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Fulham",
+   "utcDate": "2027-01-31T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Leeds United",
+   "utcDate": "2027-01-31T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Crystal Palace",
+   "utcDate": "2027-01-31T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Sunderland",
+   "utcDate": "2027-01-31T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-01-30T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Ipswich Town",
+   "utcDate": "2027-01-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-01-30T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Everton",
+   "utcDate": "2027-01-30T12:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Chelsea",
+   "utcDate": "2027-01-25T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Liverpool",
+   "utcDate": "2027-01-24T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-01-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Brentford",
+   "utcDate": "2027-01-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-01-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Coventry City",
+   "utcDate": "2027-01-24T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Manchester City",
+   "utcDate": "2027-01-23T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Newcastle United",
+   "utcDate": "2027-01-23T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Aston Villa",
+   "utcDate": "2027-01-23T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Hull City",
+   "utcDate": "2027-01-23T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2027-01-18T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Leeds United",
+   "utcDate": "2027-01-17T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Ipswich Town",
+   "utcDate": "2027-01-17T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Manchester United",
+   "utcDate": "2027-01-16T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Sunderland",
+   "utcDate": "2027-01-16T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Arsenal FC",
+   "utcDate": "2027-01-16T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Crystal Palace",
+   "utcDate": "2027-01-16T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Nottingham Forest",
+   "utcDate": "2027-01-16T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Fulham",
+   "utcDate": "2027-01-16T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Everton",
+   "utcDate": "2027-01-16T12:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Newcastle United",
+   "utcDate": "2027-01-07T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Manchester City",
+   "utcDate": "2027-01-06T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Chelsea",
+   "utcDate": "2027-01-06T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-01-06T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Coventry City",
+   "utcDate": "2027-01-06T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Liverpool",
+   "utcDate": "2027-01-05T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Brentford",
+   "utcDate": "2027-01-05T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "AFC Bournemouth",
+   "utcDate": "2027-01-05T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Aston Villa",
+   "utcDate": "2027-01-05T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Hull City",
+   "utcDate": "2027-01-05T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2027-01-03T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Newcastle United",
+   "utcDate": "2027-01-03T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Aston Villa",
+   "utcDate": "2027-01-02T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Ipswich Town",
+   "utcDate": "2027-01-02T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Crystal Palace",
+   "utcDate": "2027-01-02T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Coventry City",
+   "utcDate": "2027-01-02T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Fulham",
+   "utcDate": "2027-01-02T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Hull City",
+   "utcDate": "2027-01-02T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Manchester United",
+   "utcDate": "2027-01-02T12:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Everton",
+   "utcDate": "2027-01-01T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Liverpool",
+   "utcDate": "2026-12-30T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Chelsea",
+   "utcDate": "2026-12-30T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Brentford",
+   "utcDate": "2026-12-30T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "AFC Bournemouth",
+   "utcDate": "2026-12-30T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Arsenal FC",
+   "utcDate": "2026-12-30T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Sunderland",
+   "utcDate": "2026-12-30T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-12-30T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Manchester City",
+   "utcDate": "2026-12-29T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Leeds United",
+   "utcDate": "2026-12-29T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-12-29T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Arsenal FC",
+   "utcDate": "2026-12-27T19:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-12-27T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Chelsea",
+   "utcDate": "2026-12-27T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Manchester City",
+   "utcDate": "2026-12-26T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Liverpool",
+   "utcDate": "2026-12-26T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Sunderland",
+   "utcDate": "2026-12-26T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-12-26T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Brentford",
+   "utcDate": "2026-12-26T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "AFC Bournemouth",
+   "utcDate": "2026-12-26T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Leeds United",
+   "utcDate": "2026-12-26T12:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Aston Villa",
+   "utcDate": "2026-12-21T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Manchester United",
+   "utcDate": "2026-12-20T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Ipswich Town",
+   "utcDate": "2026-12-20T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Everton",
+   "utcDate": "2026-12-20T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Crystal Palace",
+   "utcDate": "2026-12-20T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2026-12-19T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Coventry City",
+   "utcDate": "2026-12-19T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Fulham",
+   "utcDate": "2026-12-19T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Hull City",
+   "utcDate": "2026-12-19T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Newcastle United",
+   "utcDate": "2026-12-19T12:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2026-12-14T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Manchester United",
+   "utcDate": "2026-12-13T19:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Aston Villa",
+   "utcDate": "2026-12-13T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "AFC Bournemouth",
+   "utcDate": "2026-12-13T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Everton",
+   "utcDate": "2026-12-13T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-12-13T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Chelsea",
+   "utcDate": "2026-12-12T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Brentford",
+   "utcDate": "2026-12-12T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Newcastle United",
+   "utcDate": "2026-12-12T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Leeds United",
+   "utcDate": "2026-12-12T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Arsenal FC",
+   "utcDate": "2026-12-06T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Fulham",
+   "utcDate": "2026-12-06T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Sunderland",
+   "utcDate": "2026-12-06T14:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Manchester City",
+   "utcDate": "2026-12-05T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-12-05T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Crystal Palace",
+   "utcDate": "2026-12-05T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Hull City",
+   "utcDate": "2026-12-05T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Ipswich Town",
+   "utcDate": "2026-12-05T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Coventry City",
+   "utcDate": "2026-12-05T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Liverpool",
+   "utcDate": "2026-12-05T12:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Fulham",
+   "utcDate": "2026-12-03T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Everton",
+   "utcDate": "2026-12-02T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-12-02T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Arsenal FC",
+   "utcDate": "2026-12-02T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Manchester United",
+   "utcDate": "2026-12-02T20:15:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Crystal Palace",
+   "utcDate": "2026-12-02T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-12-02T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Sunderland",
+   "utcDate": "2026-12-02T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Leeds United",
+   "utcDate": "2026-12-02T19:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Ipswich Town",
+   "utcDate": "2026-12-01T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Manchester City",
+   "utcDate": "2026-11-29T16:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Newcastle United",
+   "utcDate": "2026-11-29T14:05:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Hull City",
+   "utcDate": "2026-11-29T14:05:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "AFC Bournemouth",
+   "utcDate": "2026-11-29T14:05:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2026-11-29T14:05:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Liverpool",
+   "utcDate": "2026-11-29T12:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Aston Villa",
+   "utcDate": "2026-11-28T17:30:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Coventry City",
+   "utcDate": "2026-11-28T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Brentford",
+   "utcDate": "2026-11-28T15:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "utcDate": "2026-11-27T20:00:00.000Z",
+   "matchStatus": "SCHEDULED",
+   "score": {
+    "home": null,
+    "away": null
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Everton",
+   "utcDate": "2026-11-23T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Manchester United",
+   "utcDate": "2026-11-22T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-11-22T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Arsenal FC",
+   "utcDate": "2026-11-21T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Sunderland",
+   "utcDate": "2026-11-21T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-11-21T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Leeds United",
+   "utcDate": "2026-11-21T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Crystal Palace",
+   "utcDate": "2026-11-21T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Ipswich Town",
+   "utcDate": "2026-11-21T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Fulham",
+   "utcDate": "2026-11-21T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Aston Villa",
+   "utcDate": "2026-11-08T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Brentford",
+   "utcDate": "2026-11-08T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Liverpool",
+   "utcDate": "2026-11-08T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "AFC Bournemouth",
+   "utcDate": "2026-11-08T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Chelsea",
+   "utcDate": "2026-11-08T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
+   "utcDate": "2026-11-07T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Hull City",
+   "utcDate": "2026-11-07T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Newcastle United",
+   "utcDate": "2026-11-07T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2026-11-07T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Coventry City",
+   "utcDate": "2026-11-06T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Everton",
+   "utcDate": "2026-11-02T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Arsenal FC",
+   "utcDate": "2026-11-01T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Fulham",
+   "utcDate": "2026-10-31T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Crystal Palace",
+   "utcDate": "2026-10-31T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Leeds United",
+   "utcDate": "2026-10-31T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-10-31T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Sunderland",
+   "utcDate": "2026-10-31T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Ipswich Town",
+   "utcDate": "2026-10-31T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-10-31T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Manchester United",
+   "utcDate": "2026-10-31T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Leeds United",
+   "utcDate": "2026-10-25T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Newcastle United",
+   "utcDate": "2026-10-25T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Brentford",
+   "utcDate": "2026-10-25T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-10-25T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "AFC Bournemouth",
+   "utcDate": "2026-10-25T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2026-10-24T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Everton",
+   "utcDate": "2026-10-24T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Coventry City",
+   "away": "Fulham",
+   "utcDate": "2026-10-24T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Manchester City",
+   "utcDate": "2026-10-24T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-10-23T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Coventry City",
+   "utcDate": "2026-10-19T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Arsenal FC",
+   "utcDate": "2026-10-18T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Sunderland",
+   "utcDate": "2026-10-18T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Crystal Palace",
+   "utcDate": "2026-10-18T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Manchester United",
+   "utcDate": "2026-10-18T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Aston Villa",
+   "utcDate": "2026-10-17T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Liverpool",
+   "utcDate": "2026-10-17T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Hull City",
+   "utcDate": "2026-10-17T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Ipswich Town",
+   "utcDate": "2026-10-17T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Chelsea",
+   "utcDate": "2026-10-17T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Manchester City",
+   "utcDate": "2026-10-11T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-10-11T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Hull City",
+   "away": "Everton",
+   "utcDate": "2026-10-11T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2026-10-10T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Fulham",
+   "utcDate": "2026-10-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-10-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Crystal Palace",
+   "utcDate": "2026-03-05T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Chelsea",
+   "utcDate": "2026-03-04T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-03-04T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Brentford",
+   "utcDate": "2026-03-03T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Chelsea",
+   "utcDate": "2026-03-01T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Crystal Palace",
+   "utcDate": "2026-03-01T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-03-01T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Manchester City",
+   "utcDate": "2026-02-28T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Everton",
+   "utcDate": "2026-02-28T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Manchester United",
+   "utcDate": "2026-02-23T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-02-21T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Liverpool",
+   "utcDate": "2026-02-11T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Fulham",
+   "utcDate": "2026-02-11T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Manchester United",
+   "utcDate": "2026-02-10T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Newcastle United",
+   "utcDate": "2026-02-10T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Newcastle United",
+   "utcDate": "2026-01-18T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Crystal Palace",
+   "utcDate": "2026-01-17T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Fulham",
+   "utcDate": "2026-01-17T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Manchester City",
+   "utcDate": "2026-01-17T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Liverpool",
+   "utcDate": "2026-01-08T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Leeds United",
+   "utcDate": "2026-01-07T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Manchester United",
+   "utcDate": "2026-01-07T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2026-01-07T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2026-01-07T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Sunderland",
+   "utcDate": "2026-01-07T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Aston Villa",
+   "utcDate": "2026-01-07T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Chelsea",
+   "utcDate": "2026-01-07T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2026-01-07T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-01-06T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Chelsea",
+   "utcDate": "2026-01-04T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Crystal Palace",
+   "utcDate": "2026-01-04T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Sunderland",
+   "utcDate": "2026-01-04T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Burnley",
+   "utcDate": "2026-01-03T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Nottingham Forest",
+   "utcDate": "2026-01-03T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Manchester City",
+   "utcDate": "2026-01-01T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Fulham",
+   "utcDate": "2026-01-01T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Leeds United",
+   "utcDate": "2026-01-01T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Newcastle United",
+   "utcDate": "2025-12-30T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Everton",
+   "utcDate": "2025-12-30T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-12-30T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-12-28T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Leeds United",
+   "utcDate": "2025-12-28T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Aston Villa",
+   "utcDate": "2025-12-27T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Everton",
+   "utcDate": "2025-12-27T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Fulham",
+   "utcDate": "2025-12-27T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-12-27T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-12-27T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-12-27T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
+   "utcDate": "2025-12-27T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Newcastle United",
+   "utcDate": "2025-12-26T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-12-22T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Manchester United",
+   "utcDate": "2025-12-21T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Arsenal FC",
+   "utcDate": "2025-12-20T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Crystal Palace",
+   "utcDate": "2025-12-20T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Liverpool",
+   "utcDate": "2025-12-20T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "West Ham United",
+   "utcDate": "2025-12-20T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Burnley",
+   "utcDate": "2025-12-20T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Brentford",
+   "utcDate": "2025-12-20T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Sunderland",
+   "utcDate": "2025-12-20T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Chelsea",
+   "utcDate": "2025-12-20T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Aston Villa",
+   "utcDate": "2025-12-14T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Newcastle United",
+   "utcDate": "2025-12-14T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Liverpool",
+   "utcDate": "2025-11-09T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Newcastle United",
+   "utcDate": "2025-11-09T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-11-09T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-11-09T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-11-08T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Arsenal FC",
+   "utcDate": "2025-11-08T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Fulham",
+   "utcDate": "2025-11-08T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Burnley",
+   "utcDate": "2025-11-08T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Manchester United",
+   "utcDate": "2025-11-08T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Everton",
+   "utcDate": "2025-11-03T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-11-02T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Newcastle United",
+   "utcDate": "2025-11-02T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Aston Villa",
+   "utcDate": "2025-11-01T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Chelsea",
+   "utcDate": "2025-11-01T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Arsenal FC",
+   "utcDate": "2025-11-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-11-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Brentford",
+   "utcDate": "2025-11-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Leeds United",
+   "utcDate": "2025-11-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Manchester United",
+   "utcDate": "2025-11-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Crystal Palace",
+   "utcDate": "2025-10-26T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Sunderland",
+   "utcDate": "2025-10-25T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Manchester City",
+   "utcDate": "2025-10-05T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-10-05T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Burnley",
+   "utcDate": "2025-10-05T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Crystal Palace",
+   "utcDate": "2025-10-05T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "West Ham United",
+   "utcDate": "2025-10-04T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-10-04T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Fulham",
+   "utcDate": "2025-10-03T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "West Ham United",
+   "utcDate": "2025-09-29T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Arsenal FC",
+   "utcDate": "2025-09-28T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Fulham",
+   "utcDate": "2025-09-28T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-09-27T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Sunderland",
+   "utcDate": "2025-09-27T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Burnley",
+   "utcDate": "2025-09-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-09-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Liverpool",
+   "utcDate": "2025-09-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-09-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Manchester United",
+   "utcDate": "2025-09-27T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Manchester City",
+   "utcDate": "2025-09-21T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Newcastle United",
+   "utcDate": "2025-09-21T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "Aston Villa",
+   "utcDate": "2025-09-21T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Brentford",
+   "utcDate": "2025-09-20T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Crystal Palace",
+   "utcDate": "2025-09-20T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-09-20T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Everton",
+   "utcDate": "2025-09-20T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Crystal Palace",
+   "utcDate": "2025-08-31T18:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Arsenal FC",
+   "utcDate": "2025-08-31T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "West Ham United",
+   "utcDate": "2025-08-31T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Liverpool",
+   "utcDate": "2025-08-25T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Manchester United",
+   "utcDate": "2025-08-24T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Manchester United",
+   "utcDate": "2025-08-24T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-08-24T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-08-24T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Leeds United",
+   "utcDate": "2025-08-23T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Sunderland",
+   "utcDate": "2025-08-23T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Aston Villa",
+   "utcDate": "2025-08-23T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-08-23T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-08-23T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Chelsea",
+   "utcDate": "2025-08-22T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 5
+   },
+   "season": null
+  },
+  {
+   "home": "Leeds United",
+   "away": "Everton",
+   "utcDate": "2025-08-18T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Arsenal FC",
+   "utcDate": "2025-08-17T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Brentford",
+   "utcDate": "2025-08-17T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Crystal Palace",
+   "utcDate": "2025-08-17T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Manchester City",
+   "utcDate": "2025-08-16T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Burnley",
+   "utcDate": "2025-08-16T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Fulham",
+   "utcDate": "2025-08-16T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Sunderland",
+   "away": "West Ham United",
+   "utcDate": "2025-08-16T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Newcastle United",
+   "utcDate": "2025-08-16T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-08-15T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Everton",
+   "utcDate": "2025-05-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Arsenal FC",
+   "utcDate": "2025-05-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-05-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "utcDate": "2025-05-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Brentford",
+   "utcDate": "2025-05-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Leicester City",
+   "utcDate": "2025-05-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Aston Villa",
+   "utcDate": "2025-05-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-05-20T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-05-20T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Liverpool",
+   "utcDate": "2025-05-19T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Newcastle United",
+   "utcDate": "2025-05-18T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Fulham",
+   "utcDate": "2025-05-18T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Ipswich Town",
+   "utcDate": "2025-05-18T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-05-18T13:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Southampton",
+   "utcDate": "2025-05-18T11:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Manchester United",
+   "utcDate": "2025-05-16T19:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-05-16T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Arsenal FC",
+   "utcDate": "2025-05-11T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "West Ham United",
+   "utcDate": "2025-05-11T13:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Leicester City",
+   "utcDate": "2025-05-11T13:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Crystal Palace",
+   "utcDate": "2025-05-11T13:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Chelsea",
+   "utcDate": "2025-05-11T11:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Aston Villa",
+   "utcDate": "2025-05-10T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Everton",
+   "utcDate": "2025-05-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Brentford",
+   "utcDate": "2025-05-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Manchester City",
+   "utcDate": "2025-05-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-05-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-05-05T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Liverpool",
+   "utcDate": "2025-05-04T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Manchester United",
+   "utcDate": "2025-05-04T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Newcastle United",
+   "utcDate": "2025-05-04T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-05-04T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-05-03T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Ipswich Town",
+   "utcDate": "2025-05-03T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Southampton",
+   "utcDate": "2025-05-03T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Fulham",
+   "utcDate": "2025-05-03T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-05-02T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Brentford",
+   "utcDate": "2025-05-01T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-04-27T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Manchester United",
+   "utcDate": "2025-04-27T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "West Ham United",
+   "utcDate": "2025-04-26T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Ipswich Town",
+   "utcDate": "2025-04-26T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Fulham",
+   "utcDate": "2025-04-26T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Leicester City",
+   "utcDate": "2025-04-26T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Everton",
+   "utcDate": "2025-04-26T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Crystal Palace",
+   "utcDate": "2025-04-23T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Aston Villa",
+   "utcDate": "2025-04-22T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-04-21T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Liverpool",
+   "utcDate": "2025-04-20T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Chelsea",
+   "utcDate": "2025-04-20T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Arsenal FC",
+   "utcDate": "2025-04-20T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-04-20T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Newcastle United",
+   "utcDate": "2025-04-19T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-04-19T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-04-19T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Manchester City",
+   "utcDate": "2025-04-19T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Southampton",
+   "utcDate": "2025-04-19T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Manchester United",
+   "utcDate": "2025-04-13T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "West Ham United",
+   "utcDate": "2025-04-13T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-04-13T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Everton",
+   "utcDate": "2025-04-12T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Aston Villa",
+   "utcDate": "2025-04-12T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Crystal Palace",
+   "utcDate": "2025-04-12T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Leicester City",
+   "utcDate": "2025-03-09T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Aston Villa",
+   "utcDate": "2025-03-08T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Fulham",
+   "utcDate": "2025-03-08T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Ipswich Town",
+   "utcDate": "2025-03-08T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Leicester City",
+   "utcDate": "2025-02-27T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Newcastle United",
+   "utcDate": "2025-02-26T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Everton",
+   "utcDate": "2025-02-26T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Arsenal FC",
+   "utcDate": "2025-02-26T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Manchester City",
+   "utcDate": "2025-02-26T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Ipswich Town",
+   "utcDate": "2025-02-26T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Southampton",
+   "utcDate": "2025-02-25T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Fulham",
+   "utcDate": "2025-02-25T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-02-25T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Aston Villa",
+   "utcDate": "2025-02-25T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Liverpool",
+   "utcDate": "2025-02-23T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-02-23T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Chelsea",
+   "utcDate": "2025-02-22T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-02-22T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Crystal Palace",
+   "utcDate": "2025-02-22T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "West Ham United",
+   "utcDate": "2025-02-22T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-02-22T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-02-22T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Manchester United",
+   "utcDate": "2025-02-22T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Brentford",
+   "utcDate": "2025-02-21T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Manchester United",
+   "utcDate": "2025-02-16T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-02-16T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Everton",
+   "utcDate": "2025-02-15T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Ipswich Town",
+   "utcDate": "2025-02-15T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-02-15T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Newcastle United",
+   "utcDate": "2025-02-15T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-02-15T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Brentford",
+   "utcDate": "2025-02-15T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Arsenal FC",
+   "utcDate": "2025-02-15T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Chelsea",
+   "utcDate": "2025-02-14T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "West Ham United",
+   "utcDate": "2025-02-03T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Manchester City",
+   "utcDate": "2025-02-02T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-02-02T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Crystal Palace",
+   "utcDate": "2025-02-02T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Aston Villa",
+   "utcDate": "2025-02-01T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Liverpool",
+   "utcDate": "2025-02-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Leicester City",
+   "utcDate": "2025-02-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Southampton",
+   "utcDate": "2025-02-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Fulham",
+   "utcDate": "2025-02-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-02-01T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 7,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Manchester United",
+   "utcDate": "2025-01-26T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "West Ham United",
+   "utcDate": "2025-01-26T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Brentford",
+   "utcDate": "2025-01-26T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Leicester City",
+   "utcDate": "2025-01-26T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Chelsea",
+   "utcDate": "2025-01-25T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Ipswich Town",
+   "utcDate": "2025-01-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Newcastle United",
+   "utcDate": "2025-01-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Arsenal FC",
+   "utcDate": "2025-01-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-01-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Everton",
+   "utcDate": "2025-01-25T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-01-20T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Manchester City",
+   "utcDate": "2025-01-19T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 6
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-01-19T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-01-19T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Southampton",
+   "utcDate": "2025-01-19T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Aston Villa",
+   "utcDate": "2025-01-18T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Liverpool",
+   "utcDate": "2025-01-18T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Fulham",
+   "utcDate": "2025-01-18T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Crystal Palace",
+   "utcDate": "2025-01-18T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-01-18T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Southampton",
+   "utcDate": "2025-01-16T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2025-01-16T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2025-01-15T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Aston Villa",
+   "utcDate": "2025-01-15T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Crystal Palace",
+   "utcDate": "2025-01-15T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2025-01-15T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Liverpool",
+   "utcDate": "2025-01-14T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Manchester City",
+   "utcDate": "2025-01-14T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Fulham",
+   "utcDate": "2025-01-14T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "AFC Bournemouth",
+   "utcDate": "2025-01-14T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Nottingham Forest",
+   "utcDate": "2025-01-06T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Manchester United",
+   "utcDate": "2025-01-05T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Ipswich Town",
+   "utcDate": "2025-01-05T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Arsenal FC",
+   "utcDate": "2025-01-04T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Chelsea",
+   "utcDate": "2025-01-04T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "West Ham United",
+   "utcDate": "2025-01-04T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Brentford",
+   "utcDate": "2025-01-04T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Newcastle United",
+   "utcDate": "2025-01-04T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-12-05T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Manchester United",
+   "utcDate": "2024-12-04T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Brentford",
+   "utcDate": "2024-12-04T20:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-12-04T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Manchester City",
+   "utcDate": "2024-12-01T16:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Aston Villa",
+   "utcDate": "2024-12-01T13:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Everton",
+   "utcDate": "2024-12-01T13:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Fulham",
+   "utcDate": "2024-12-01T13:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Arsenal FC",
+   "utcDate": "2024-11-30T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 5
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Leicester City",
+   "utcDate": "2024-11-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Newcastle United",
+   "utcDate": "2024-11-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Ipswich Town",
+   "utcDate": "2024-11-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "AFC Bournemouth",
+   "utcDate": "2024-11-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Southampton",
+   "utcDate": "2024-11-29T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "West Ham United",
+   "utcDate": "2024-11-25T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Manchester United",
+   "utcDate": "2024-11-24T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Southampton",
+   "away": "Liverpool",
+   "utcDate": "2024-11-24T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-11-23T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2024-11-23T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Nottingham Forest",
+   "utcDate": "2024-11-23T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Crystal Palace",
+   "utcDate": "2024-11-23T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Brentford",
+   "utcDate": "2024-11-23T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-11-23T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Chelsea",
+   "utcDate": "2024-11-23T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Leicester City",
+   "utcDate": "2024-11-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Newcastle United",
+   "utcDate": "2024-11-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Ipswich Town",
+   "utcDate": "2024-11-10T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Aston Villa",
+   "utcDate": "2024-11-09T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Everton",
+   "utcDate": "2024-11-09T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Southampton",
+   "utcDate": "2024-11-09T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-10-06T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Chelsea",
+   "utcDate": "2024-09-14T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Everton",
+   "utcDate": "2024-09-14T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Ipswich Town",
+   "utcDate": "2024-09-14T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Leicester City",
+   "utcDate": "2024-09-14T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Liverpool",
+   "utcDate": "2024-09-01T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-09-01T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Manchester City",
+   "utcDate": "2024-08-31T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Fulham",
+   "utcDate": "2024-08-31T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Leicester City",
+   "away": "Aston Villa",
+   "utcDate": "2024-08-31T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-08-31T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-08-17T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2024-08-17T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Ipswich Town",
+   "away": "Liverpool",
+   "utcDate": "2024-08-17T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Fulham",
+   "utcDate": "2024-08-16T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Everton",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Newcastle United",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Manchester United",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Nottingham Forest",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "AFC Bournemouth",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Aston Villa",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Luton Town",
+   "away": "Fulham",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "West Ham United",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Sheffield United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-05-19T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Newcastle United",
+   "utcDate": "2024-05-15T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Chelsea",
+   "utcDate": "2024-05-15T18:45:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Manchester City",
+   "utcDate": "2024-05-14T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Liverpool",
+   "utcDate": "2024-05-13T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Arsenal FC",
+   "utcDate": "2024-05-12T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Chelsea",
+   "utcDate": "2024-05-11T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Brentford",
+   "utcDate": "2024-05-11T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Sheffield United",
+   "utcDate": "2024-05-11T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2024-05-11T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Burnley",
+   "utcDate": "2024-05-11T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Luton Town",
+   "utcDate": "2024-05-11T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Crystal Palace",
+   "utcDate": "2024-05-11T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Manchester City",
+   "utcDate": "2024-05-11T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Manchester United",
+   "utcDate": "2024-05-06T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-05-05T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Aston Villa",
+   "utcDate": "2024-05-05T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "West Ham United",
+   "utcDate": "2024-05-05T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-05-04T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Fulham",
+   "utcDate": "2024-05-04T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Newcastle United",
+   "utcDate": "2024-05-04T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Sheffield United",
+   "away": "Nottingham Forest",
+   "utcDate": "2024-05-04T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "AFC Bournemouth",
+   "utcDate": "2024-05-04T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Luton Town",
+   "away": "Everton",
+   "utcDate": "2024-05-03T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-05-02T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
+   "utcDate": "2024-04-28T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2024-04-28T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Arsenal FC",
+   "utcDate": "2024-04-28T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Chelsea",
+   "utcDate": "2024-04-27T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Brentford",
+   "utcDate": "2024-04-27T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Sheffield United",
+   "utcDate": "2024-04-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Luton Town",
+   "utcDate": "2024-04-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Crystal Palace",
+   "utcDate": "2024-04-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Burnley",
+   "utcDate": "2024-04-27T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Liverpool",
+   "utcDate": "2024-04-27T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Manchester City",
+   "utcDate": "2024-04-25T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Newcastle United",
+   "utcDate": "2024-04-24T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Liverpool",
+   "utcDate": "2024-04-24T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Sheffield United",
+   "utcDate": "2024-04-24T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "AFC Bournemouth",
+   "utcDate": "2024-04-24T18:45:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Chelsea",
+   "utcDate": "2024-04-23T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Liverpool",
+   "utcDate": "2024-04-21T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "AFC Bournemouth",
+   "utcDate": "2024-04-21T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "West Ham United",
+   "utcDate": "2024-04-21T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Nottingham Forest",
+   "utcDate": "2024-04-21T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "Arsenal FC",
+   "utcDate": "2024-04-20T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Luton Town",
+   "away": "Brentford",
+   "utcDate": "2024-04-20T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 5
+   },
+   "season": null
+  },
+  {
+   "home": "Sheffield United",
+   "away": "Burnley",
+   "utcDate": "2024-04-20T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Everton",
+   "utcDate": "2024-04-15T19:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 6,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Aston Villa",
+   "utcDate": "2024-04-14T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Crystal Palace",
+   "utcDate": "2024-04-14T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Fulham",
+   "utcDate": "2024-04-14T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Manchester United",
+   "utcDate": "2024-04-13T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2024-04-13T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Luton Town",
+   "utcDate": "2024-04-13T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Sheffield United",
+   "utcDate": "2024-04-13T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-04-13T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-04-13T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Nottingham Forest",
+   "utcDate": "2024-04-07T17:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Sheffield United",
+   "away": "Chelsea",
+   "utcDate": "2024-04-07T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester United",
+   "away": "Liverpool",
+   "utcDate": "2024-04-07T14:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Brighton & Hove Albion",
+   "away": "Arsenal FC",
+   "utcDate": "2024-04-06T16:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Everton",
+   "away": "Burnley",
+   "utcDate": "2024-04-06T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Brentford",
+   "utcDate": "2024-04-06T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Newcastle United",
+   "utcDate": "2024-04-06T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Luton Town",
+   "away": "AFC Bournemouth",
+   "utcDate": "2024-04-06T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Wolverhampton Wanderers",
+   "away": "West Ham United",
+   "utcDate": "2024-04-06T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Crystal Palace",
+   "away": "Manchester City",
+   "utcDate": "2024-04-06T11:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Manchester United",
+   "utcDate": "2024-04-04T19:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Sheffield United",
+   "utcDate": "2024-04-04T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Aston Villa",
+   "utcDate": "2024-04-03T19:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Arsenal FC",
+   "away": "Luton Town",
+   "utcDate": "2024-04-03T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2024-04-03T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-04-02T19:15:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Crystal Palace",
+   "utcDate": "2024-04-02T18:45:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-04-02T18:45:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Fulham",
+   "utcDate": "2024-04-02T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "Everton",
+   "utcDate": "2024-04-02T18:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Manchester City",
+   "away": "Arsenal FC",
+   "utcDate": "2024-03-31T15:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Liverpool",
+   "away": "Brighton & Hove Albion",
+   "utcDate": "2024-03-31T13:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Brentford",
+   "away": "Manchester United",
+   "utcDate": "2024-03-30T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Aston Villa",
+   "away": "Wolverhampton Wanderers",
+   "utcDate": "2024-03-30T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Sheffield United",
+   "away": "Fulham",
+   "utcDate": "2024-03-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Tottenham Hotspur",
+   "away": "Luton Town",
+   "utcDate": "2024-03-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Everton",
+   "utcDate": "2024-03-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Burnley",
+   "utcDate": "2024-03-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "season": null
+  },
+  {
+   "home": "Nottingham Forest",
+   "away": "Crystal Palace",
+   "utcDate": "2024-03-30T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Newcastle United",
+   "away": "West Ham United",
+   "utcDate": "2024-03-30T12:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "West Ham United",
+   "away": "Aston Villa",
+   "utcDate": "2024-03-17T14:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Fulham",
+   "away": "Tottenham Hotspur",
+   "utcDate": "2024-03-16T17:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "season": null
+  },
+  {
+   "home": "Luton Town",
+   "away": "Nottingham Forest",
+   "utcDate": "2024-03-16T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "Burnley",
+   "away": "Brentford",
+   "utcDate": "2024-03-16T15:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "season": null
+  },
+  {
+   "home": "AFC Bournemouth",
+   "away": "Luton Town",
+   "utcDate": "2024-03-13T19:30:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "season": null
+  },
+  {
+   "home": "Chelsea",
+   "away": "Newcastle United",
+   "utcDate": "2024-03-11T20:00:00.000Z",
+   "matchStatus": "FINISHED",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "season": null
+  }
+ ]
+}

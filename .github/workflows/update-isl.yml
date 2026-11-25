@@ -1,19 +1,22 @@
-name: Update ISL data
+name: Update league data
 
-# Runs once a day and after every push to the data script.
-# Needs one repository secret: GOAL_API_KEY (Settings -> Secrets and variables -> Actions).
-# Optional repository variable: LEAGUE_ID.
+# Refreshes data/isl.json, data/epl.json and data/laliga.json once a day.
+# Secrets: GOAL_API_KEY
+# Variables: ISL_LEAGUE_ID (optional, has a default), EPL_LEAGUE_ID, LALIGA_LEAGUE_ID
 
 on:
   schedule:
-    # 21:00 UTC = 02:30 IST, so the table is fresh before the next match day
-    - cron: '0 21 * * *'
+    - cron: '0 21 * * *'      # 21:00 UTC = 02:30 IST
   workflow_dispatch:
     inputs:
       source:
-        description: 'Data source (goal = your GOAL API key, thesportsdb = free fallback)'
+        description: 'Data source (goal = your API key, thesportsdb = free fallback)'
         required: false
         default: 'goal'
+      list_leagues:
+        description: 'Type yes to only print the league ids on your account'
+        required: false
+        default: 'no'
   push:
     paths:
       - 'scripts/update_data.py'
@@ -23,11 +26,36 @@ permissions:
   contents: write
 
 concurrency:
-  group: isl-data-update
+  group: league-data-update
   cancel-in-progress: true
 
 jobs:
+  # Optional helper: prints every league id your API key can see.
+  discover:
+    if: github.event.inputs.list_leagues == 'yes'
+    runs-on: ubuntu-latest
+    steps:
+      - name: List leagues
+        env:
+          GOAL_API_KEY: ${{ secrets.GOAL_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          key = os.environ.get("GOAL_API_KEY", "")
+          if not key:
+              raise SystemExit("GOAL_API_KEY secret is missing")
+          req = urllib.request.Request(
+              "https://api.goal-api.com/v1/leagues?limit=100",
+              headers={"Authorization": "Bearer " + key, "Accept": "application/json"})
+          data = json.loads(urllib.request.urlopen(req, timeout=45).read().decode())
+          rows = data if isinstance(data, list) else (data.get("data") or data.get("leagues") or [])
+          for r in rows:
+              print(f"{r.get('id')}  {r.get('name')}  {r.get('country') or r.get('countryCode') or ''}")
+          print(f"\n{len(rows)} leagues")
+          PY
+
   refresh:
+    if: github.event.inputs.list_leagues != 'yes'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -36,21 +64,37 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch fixtures and results
+      - name: Fetch fixtures and results for every league
         env:
           GOAL_API_KEY: ${{ secrets.GOAL_API_KEY }}
-          LEAGUE_ID: ${{ vars.LEAGUE_ID }}
+          ISL_ID: ${{ vars.ISL_LEAGUE_ID || 'cmr77dvry008arx06q35z3h2m' }}
+          EPL_ID: ${{ vars.EPL_LEAGUE_ID }}
+          LALIGA_ID: ${{ vars.LALIGA_LEAGUE_ID }}
           DATA_SOURCE: ${{ github.event.inputs.source || 'goal' }}
-        run: python3 scripts/update_data.py
+        run: |
+          fetch() {
+            name="$1"; id="$2"
+            if [ -z "$id" ]; then
+              echo "::notice::No league id set for $name - skipping"
+              return 0
+            fi
+            echo "== $name ($id)"
+            LEAGUE_ID="$id" OUT_PATH="data/$name.json" python3 scripts/update_data.py \
+              || echo "::warning::$name failed this run, keeping the previous file"
+          }
+          fetch isl "$ISL_ID"
+          fetch epl "$EPL_ID"
+          fetch laliga "$LALIGA_ID"
 
       - name: Commit if the data changed
         run: |
-          if git diff --quiet -- data/isl.json; then
-            echo "No change in data/isl.json"
+          git add data/
+          if git diff --cached --quiet -- data/; then
+            echo "No change in data/"
             exit 0
           fi
           git config user.name  "isl-hud-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/isl.json
-          git commit -m "data: refresh ISL fixtures ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git commit -m "data: refresh league fixtures ($(date -u +%Y-%m-%dT%H:%MZ))"
           git push
+

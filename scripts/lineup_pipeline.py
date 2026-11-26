@@ -106,7 +106,7 @@ def fetch_schedule(k):
     wanted = {lid: lname for lid, lname in LEAGUES}
     out = []
     today = now().date()
-        for offset in range(2):
+    for offset in range(2):
         day = (today + timedelta(days=offset)).isoformat()
         try:
             rows = get("/fixtures", k, date=day)

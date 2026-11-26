@@ -46,6 +46,7 @@ jobs:
             MAX_CALLS=10 MAX_ENRICH=4 python3 scripts/lineup_pipeline.py enrich
           elif [ "$JOB" = "report" ]; then
             python3 scripts/lineup_pipeline.py report
+                        python3 scripts/probe.py
           else
             MAX_CALLS=10 CAPTURE_WINDOW_MIN=75 python3 scripts/lineup_pipeline.py capture
           fi

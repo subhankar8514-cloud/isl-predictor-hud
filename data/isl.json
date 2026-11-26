@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-25T21:47:51Z",
+ "updated_utc": "2026-11-26T21:42:43Z",
  "source": "goal",
  "count": 571,
  "finished": 449,
@@ -1294,7 +1294,7 @@
   {
    "home": "NorthEast United",
    "away": "Punjab",
-   "utcDate": "2026-11-30T11:30:00.000Z",
+   "utcDate": "2026-11-30T14:00:00.000Z",
    "matchStatus": "SCHEDULED",
    "score": {
     "home": null,

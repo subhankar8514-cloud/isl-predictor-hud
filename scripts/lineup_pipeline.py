@@ -106,12 +106,15 @@ def fetch_schedule(k):
     wanted = {lid: lname for lid, lname in LEAGUES}
     out = []
     today = now().date()
-    for offset in range(3):
+        for offset in range(2):
         day = (today + timedelta(days=offset)).isoformat()
         try:
             rows = get("/fixtures", k, date=day)
         except Budget:
             break
+        except SystemExit as exc:
+            print("  skip %s: %s" % (day, exc))
+            continue
         for row in rows:
             fx = row.get("fixture") or {}
             lg = (row.get("league") or {}).get("id")

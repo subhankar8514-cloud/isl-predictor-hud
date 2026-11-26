@@ -77,7 +77,7 @@ def get(path_, key, **params):
     url = BASE + path_ + "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"x-apisports-key": key})
     try:
-            with urllib.request.urlopen(req, timeout=30) as r:
+        with urllib.request.urlopen(req, timeout=30) as r:
             body = r.read().decode()
             calls += 1
             payload = json.loads(body)

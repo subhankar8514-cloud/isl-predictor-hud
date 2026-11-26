@@ -100,20 +100,25 @@ def key():
         raise SystemExit("API_FOOTBALL_KEY is not set")
     return k
 
-
 def fetch_schedule(k):
+    """Free plan blocks the `next` parameter and current-season queries, so ask by
+    date instead - that needs no league and no season."""
+    wanted = {lid: lname for lid, lname in LEAGUES}
     out = []
-    for lid, lname in LEAGUES:
+    today = now().date()
+    for offset in range(3):
+        day = (today + timedelta(days=offset)).isoformat()
         try:
-            rows = get("/fixtures", k, league=lid, season=SEASON, next=10)
+            rows = get("/fixtures", k, date=day)
         except Budget:
             break
         for row in rows:
             fx = row.get("fixture") or {}
-            if not fx.get("date"):
+            lg = (row.get("league") or {}).get("id")
+            if lg not in wanted or not fx.get("date"):
                 continue
             out.append({
-                "fixture_id": fx.get("id"), "league_id": lid, "league": lname,
+                "fixture_id": fx.get("id"), "league_id": lg, "league": wanted[lg],
                 "kickoff_utc": fx.get("date"),
                 "home": ((row.get("teams") or {}).get("home") or {}).get("name"),
                 "away": ((row.get("teams") or {}).get("away") or {}).get("name"),

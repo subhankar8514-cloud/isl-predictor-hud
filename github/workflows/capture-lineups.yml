@@ -1,0 +1,71 @@
+name: Capture lineups
+
+on:
+  schedule:
+    - cron: '0 3 * * *'        # daily - cache the fixture schedule
+    - cron: '*/15 * * * *'     # every 15 min - poll for lineups near kickoff
+    - cron: '7 * * * *'        # hourly at :07 - attach post-match ratings
+  workflow_dispatch:
+    inputs:
+      job:
+        description: 'schedule | capture | enrich | report'
+        required: true
+        default: 'report'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lineups-${{ github.event.schedule || 'manual' }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run pipeline step
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          SEASON: ${{ vars.SEASON || '2026' }}
+        run: |
+          if [ -z "$API_FOOTBALL_KEY" ]; then
+            echo "::warning::API_FOOTBALL_KEY secret is not set"
+            exit 0
+          fi
+          CRON="${{ github.event.schedule }}"
+          JOB="${{ github.event.inputs.job }}"
+
+          if [ "$JOB" = "schedule" ] || [ "$CRON" = "0 3 * * *" ]; then
+            MAX_CALLS=6  python3 scripts/lineup_pipeline.py schedule
+          elif [ "$JOB" = "enrich" ] || [ "$CRON" = "7 * * * *" ]; then
+            MAX_CALLS=10 MAX_ENRICH=4 python3 scripts/lineup_pipeline.py enrich
+          elif [ "$JOB" = "report" ]; then
+            python3 scripts/lineup_pipeline.py report
+          else
+            MAX_CALLS=10 CAPTURE_WINDOW_MIN=75 python3 scripts/lineup_pipeline.py capture
+          fi
+
+      - name: Commit new captures
+        run: |
+          if [ ! -d data/lineups ]; then
+            echo "nothing captured"
+            exit 0
+          fi
+          git add data/lineups
+          if git diff --cached --quiet -- data/lineups; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name  "isl-hud-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "data: lineup capture ($(date -u +%Y-%m-%dT%H:%MZ))"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && break
+            echo "push attempt $i failed"
+            sleep 5
+          done

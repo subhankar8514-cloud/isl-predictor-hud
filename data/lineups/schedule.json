@@ -1,7 +1,7 @@
 {
- "updated_utc": "2026-11-26T17:49:51.374504+00:00",
+ "updated_utc": "2026-11-27T03:52:39.427699+00:00",
  "season": 2026,
- "count": 3,
+ "count": 11,
  "fixtures": [
   {
    "fixture_id": 1642201,
@@ -26,6 +26,70 @@
    "kickoff_utc": "2026-11-27T20:00:00+00:00",
    "home": "Levante",
    "away": "Racing Santander"
+  },
+  {
+   "fixture_id": 1570463,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-28T13:00:00+00:00",
+   "home": "Real Betis",
+   "away": "Rayo Vallecano"
+  },
+  {
+   "fixture_id": 1642204,
+   "league_id": 323,
+   "league": "Indian Super League",
+   "kickoff_utc": "2026-11-28T14:00:00+00:00",
+   "home": "Chennaiyin",
+   "away": "Mumbai City"
+  },
+  {
+   "fixture_id": 1557483,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-28T15:00:00+00:00",
+   "home": "Leeds",
+   "away": "Coventry"
+  },
+  {
+   "fixture_id": 1557484,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-28T15:00:00+00:00",
+   "home": "Manchester United",
+   "away": "Brentford"
+  },
+  {
+   "fixture_id": 1570469,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-28T15:15:00+00:00",
+   "home": "Malaga",
+   "away": "Athletic Club"
+  },
+  {
+   "fixture_id": 1557482,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-28T17:30:00+00:00",
+   "home": "Ipswich",
+   "away": "Aston Villa"
+  },
+  {
+   "fixture_id": 1570466,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-28T17:30:00+00:00",
+   "home": "Elche",
+   "away": "Atletico Madrid"
+  },
+  {
+   "fixture_id": 1570470,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-28T20:00:00+00:00",
+   "home": "Real Madrid",
+   "away": "Alaves"
   }
  ]
 }

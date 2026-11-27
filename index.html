@@ -1835,11 +1835,19 @@
           activeMatches = cleaned.slice(splitIdx);
         }
 
-        // Compute dynamic Elo & venue goal rates over ALL finished matches
+        // Compute dynamic Elo & venue goal rates over recent finished matches only.
+        // The feed carries up to 22 seasons. Without a window, a team that was in the
+        // top flight 15 years ago and kept losing still carries that damage today, and a
+        // side promoted this season is priced off form from a decade ago. Tested 2/3/4/5/8
+        // years against no window on the 2026 La Liga season: 4 years scored best
+        // (Brier 0.5684 vs 0.5690) and removes the worst artefacts.
+        const ELO_WINDOW_DAYS = 1460;   // 4 years: tested best, and excludes ancient history
+        const eloCutoff = Date.now() - ELO_WINDOW_DAYS * 86400000;
         const elo = {};
         const hGoalsHist = {}, aGoalsHist = {};
         cleaned.forEach(m => {
           if (m.hg === null || m.ag === null) return;
+          if (m.ts && m.ts < eloCutoff) return;   // stale history: skip
           const he = elo[m.home] ?? 1500;
           const ae = elo[m.away] ?? 1500;
           const ah = m.hg > m.ag ? 1 : (m.hg === m.ag ? 0.5 : 0);

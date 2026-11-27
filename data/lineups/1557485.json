@@ -277,6 +277,451 @@
    ]
   }
  ],
- "result": null,
- "player_stats": null
+ "result": {
+  "status": "FT",
+  "home_goals": 3,
+  "away_goals": 2
+ },
+ "player_stats": [
+  {
+   "player_id": 362711,
+   "name": "Jair",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 90,
+   "rating": 6.64,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 2919,
+   "name": "M. Sels",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 90,
+   "rating": 5.81,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 18931,
+   "name": "C. Wood",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 6,
+   "rating": 6.5,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 147831,
+   "name": "A. Kalimuendo",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 48648,
+   "name": "D. Ndoye",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 18,
+   "rating": 6.57,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 19305,
+   "name": "R. Yates",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 1,
+   "rating": 6.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 2298,
+   "name": "C. Hudson-Odoi",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 22149,
+   "name": "I. Sangaré",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 6,
+   "rating": 5.8,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 163069,
+   "name": "L. Netz",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 354753,
+   "name": "O. Diomande",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 70366,
+   "name": "John",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 18746,
+   "name": "M. Gibbs-White",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 90,
+   "rating": 7.1,
+   "goals": 2,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 9366,
+   "name": "Igor Jesus",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 72,
+   "rating": 6.78,
+   "goals": 1,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 138780,
+   "name": "N. Williams",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 90,
+   "rating": 6.48,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 1095,
+   "name": "X. Schlager",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 84,
+   "rating": 6.7,
+   "goals": 0,
+   "assists": 1,
+   "started": true
+  },
+  {
+   "player_id": 158697,
+   "name": "J. McAtee",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 89,
+   "rating": 6.38,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 13736,
+   "name": "D. Muñoz",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 90,
+   "rating": 7.08,
+   "goals": 0,
+   "assists": 1,
+   "started": true
+  },
+  {
+   "player_id": 2817,
+   "name": "N. Milenković",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 90,
+   "rating": 6.17,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 363695,
+   "name": "Murillo",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 90,
+   "rating": 6.44,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 161948,
+   "name": "L. Delap",
+   "team": "Nottingham Forest",
+   "team_id": 65,
+   "minutes": 84,
+   "rating": 6.06,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 1469,
+   "name": "D. Welbeck",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 45,
+   "rating": 6.25,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 340151,
+   "name": "M. Penders",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 152953,
+   "name": "L. Colwill",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 34,
+   "rating": 6.26,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 161907,
+   "name": "M. Gusto",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 506618,
+   "name": "M. Nicoll-Jazuli",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 383018,
+   "name": "M. Palestra",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 5,
+   "rating": 5.9,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 425733,
+   "name": "Estêvão",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 319572,
+   "name": "V. Barco",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 0,
+   "rating": 0.0,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 419582,
+   "name": "Geovany Tcherno Quenda",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 5,
+   "rating": 5.97,
+   "goals": 0,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 203762,
+   "name": "E. Emegha",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 45,
+   "rating": 8.1,
+   "goals": 2,
+   "assists": 0,
+   "started": false
+  },
+  {
+   "player_id": 19170,
+   "name": "M. Rogers",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 90,
+   "rating": 5.72,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 152982,
+   "name": "C. Palmer",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 90,
+   "rating": 6.29,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 1864,
+   "name": "Pedro Neto",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 90,
+   "rating": 7.29,
+   "goals": 0,
+   "assists": 1,
+   "started": true
+  },
+  {
+   "player_id": 282125,
+   "name": "R. Lavia",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 90,
+   "rating": 6.23,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 292,
+   "name": "J. Henderson",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 85,
+   "rating": 5.68,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 181734,
+   "name": "Pep Chavarría",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 90,
+   "rating": 6.57,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 116117,
+   "name": "M. Caicedo",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 90,
+   "rating": 6.73,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 22094,
+   "name": "W. Fofana",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 56,
+   "rating": 5.82,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 366735,
+   "name": "Joshua Kofi Acheampong",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 85,
+   "rating": 6.75,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  },
+  {
+   "player_id": 19599,
+   "name": "E. Martínez",
+   "team": "Chelsea",
+   "team_id": 49,
+   "minutes": 90,
+   "rating": 6.65,
+   "goals": 0,
+   "assists": 0,
+   "started": true
+  }
+ ]
 }

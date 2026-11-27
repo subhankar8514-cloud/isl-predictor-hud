@@ -1335,7 +1335,11 @@
       function renderFixtures() {
         const listEl = document.getElementById('fixturesList');
         // Show next 24 upcoming fixtures on radar for crisp mobile speed (all remaining used in Sim 20K)
-        const radarSlice = state.fixtures.slice(0, 28);
+        // ALL keeps the short radar for mobile speed; a confidence filter searches
+        // much wider, otherwise a HIGH pick sitting at fixture 30 is never shown.
+        const radarSlice = state.fixtureFilter === 'ALL'
+          ? state.fixtures.slice(0, 28)
+          : state.fixtures.slice(0, 120);
         const enriched = radarSlice.map(f => ({
           ...f,
           pred: predictMatch(f.home, f.away),
@@ -2317,6 +2321,9 @@
         const vBadge = document.getElementById('validationBadge');
         if (vBadge) vBadge.classList.toggle('hidden', c.key !== 'isl');
         renderRecord();
+        const rec = MODEL_RECORD[c.key];
+        const highBtn = document.querySelector('.fix-filter-btn[data-filter="HIGH"]');
+        if (highBtn) highBtn.textContent = rec ? 'HIGH ' + rec.high.toFixed(0) + '%' : 'HIGH CONF';
         set('radarHeading', `// UPCOMING ${c.label} MATCH RADAR`);
         set('chartHeading', `// TOP 5 ${c.hasCup ? 'SHIELD VS CUP' : 'TITLE VS TOP-4'} CONTENDERS`);
         set('chartLegB', c.hasCup ? 'ISL CUP' : 'TOP 4');

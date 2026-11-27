@@ -203,6 +203,8 @@
           </h1>
         </div>
         <div class="flex items-center gap-1.5 shrink-0">
+          <span id="validationBadge" title="No free historical data exists for this league, so the model has never been validated on it."
+                class="hidden text-[9px] px-1.5 py-0.5 rounded border border-amber-400/60 bg-amber-400/10 text-amber-300 font-bold tracking-wider">UNVALIDATED</span>
           <span id="dataSourceBadge" class="text-[10px] px-1.5 py-0.5 rounded border border-hudGreen/50 bg-hudGreen/10 text-hudGreen font-bold tracking-wider">
             ENGINE ONLINE
           </span>
@@ -2257,6 +2259,8 @@
         const c = leagueCfg();
         const set = (id, txt) => { const el = document.getElementById(id); if (el) el.textContent = txt; };
         set('hudTitle', `${c.label} // PREDICTOR HUD`);
+        const vBadge = document.getElementById('validationBadge');
+        if (vBadge) vBadge.classList.toggle('hidden', c.key !== 'isl');
         set('radarHeading', `// UPCOMING ${c.label} MATCH RADAR`);
         set('chartHeading', `// TOP 5 ${c.hasCup ? 'SHIELD VS CUP' : 'TITLE VS TOP-4'} CONTENDERS`);
         set('chartLegB', c.hasCup ? 'ISL CUP' : 'TOP 4');

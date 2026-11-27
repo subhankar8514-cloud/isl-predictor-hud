@@ -1,0 +1,282 @@
+{
+ "fixture_id": 1557485,
+ "league": {
+  "id": 39,
+  "name": "Premier League"
+ },
+ "season": 2026,
+ "kickoff_utc": "2026-11-27T20:00:00+00:00",
+ "home": "Nottingham Forest",
+ "away": "Chelsea",
+ "capture": {
+  "confirmed": true,
+  "pre_match": false,
+  "late": true,
+  "captured_utc": "2026-11-27T20:19:32.230860+00:00",
+  "minutes_before_kickoff": -19.5
+ },
+ "lineups": [
+  {
+   "team_id": 65,
+   "team": "Nottingham Forest",
+   "formation": "3-4-2-1",
+   "coach": "O. Glasner",
+   "startXI": [
+    {
+     "player_id": 2919,
+     "name": "M. Sels",
+     "number": 26,
+     "pos": "G"
+    },
+    {
+     "player_id": 362711,
+     "name": "Jair",
+     "number": 23,
+     "pos": "D"
+    },
+    {
+     "player_id": 2817,
+     "name": "N. Milenković",
+     "number": 31,
+     "pos": "D"
+    },
+    {
+     "player_id": 363695,
+     "name": "Murillo",
+     "number": 5,
+     "pos": "D"
+    },
+    {
+     "player_id": 13736,
+     "name": "D. Muñoz",
+     "number": 27,
+     "pos": "M"
+    },
+    {
+     "player_id": 158697,
+     "name": "J. McAtee",
+     "number": 24,
+     "pos": "M"
+    },
+    {
+     "player_id": 1095,
+     "name": "X. Schlager",
+     "number": 21,
+     "pos": "M"
+    },
+    {
+     "player_id": 138780,
+     "name": "N. Williams",
+     "number": 3,
+     "pos": "M"
+    },
+    {
+     "player_id": 9366,
+     "name": "Igor Jesus",
+     "number": 11,
+     "pos": "M"
+    },
+    {
+     "player_id": 18746,
+     "name": "M. Gibbs-White",
+     "number": 10,
+     "pos": "M"
+    },
+    {
+     "player_id": 161948,
+     "name": "L. Delap",
+     "number": 19,
+     "pos": "F"
+    }
+   ],
+   "substitutes": [
+    {
+     "player_id": 147831,
+     "name": "A. Kalimuendo",
+     "number": 15,
+     "pos": "F"
+    },
+    {
+     "player_id": 18931,
+     "name": "C. Wood",
+     "number": 9,
+     "pos": "F"
+    },
+    {
+     "player_id": 70366,
+     "name": "John",
+     "number": 12,
+     "pos": "G"
+    },
+    {
+     "player_id": 354753,
+     "name": "O. Diomande",
+     "number": 2,
+     "pos": "D"
+    },
+    {
+     "player_id": 163069,
+     "name": "L. Netz",
+     "number": 25,
+     "pos": "D"
+    },
+    {
+     "player_id": 22149,
+     "name": "I. Sangaré",
+     "number": 6,
+     "pos": "M"
+    },
+    {
+     "player_id": 2298,
+     "name": "C. Hudson-Odoi",
+     "number": 7,
+     "pos": "F"
+    },
+    {
+     "player_id": 19305,
+     "name": "R. Yates",
+     "number": 22,
+     "pos": "M"
+    },
+    {
+     "player_id": 48648,
+     "name": "D. Ndoye",
+     "number": 14,
+     "pos": "F"
+    }
+   ]
+  },
+  {
+   "team_id": 49,
+   "team": "Chelsea",
+   "formation": "4-2-3-1",
+   "coach": "Xabi Alonso",
+   "startXI": [
+    {
+     "player_id": 19599,
+     "name": "E. Martínez",
+     "number": 1,
+     "pos": "G"
+    },
+    {
+     "player_id": 366735,
+     "name": "Joshua Kofi Acheampong",
+     "number": 34,
+     "pos": "D"
+    },
+    {
+     "player_id": 22094,
+     "name": "W. Fofana",
+     "number": 3,
+     "pos": "D"
+    },
+    {
+     "player_id": 116117,
+     "name": "M. Caicedo",
+     "number": 25,
+     "pos": "D"
+    },
+    {
+     "player_id": 181734,
+     "name": "Pep Chavarría",
+     "number": 29,
+     "pos": "D"
+    },
+    {
+     "player_id": 292,
+     "name": "J. Henderson",
+     "number": 14,
+     "pos": "M"
+    },
+    {
+     "player_id": 282125,
+     "name": "R. Lavia",
+     "number": 45,
+     "pos": "M"
+    },
+    {
+     "player_id": 1864,
+     "name": "Pedro Neto",
+     "number": 7,
+     "pos": "M"
+    },
+    {
+     "player_id": 152982,
+     "name": "C. Palmer",
+     "number": 10,
+     "pos": "M"
+    },
+    {
+     "player_id": 19170,
+     "name": "M. Rogers",
+     "number": 17,
+     "pos": "M"
+    },
+    {
+     "player_id": 1469,
+     "name": "D. Welbeck",
+     "number": 18,
+     "pos": "F"
+    }
+   ],
+   "substitutes": [
+    {
+     "player_id": 152953,
+     "name": "L. Colwill",
+     "number": 6,
+     "pos": "D"
+    },
+    {
+     "player_id": 161907,
+     "name": "M. Gusto",
+     "number": 27,
+     "pos": "D"
+    },
+    {
+     "player_id": 506618,
+     "name": "M. Nicoll-Jazuli",
+     "number": 32,
+     "pos": "M"
+    },
+    {
+     "player_id": 383018,
+     "name": "M. Palestra",
+     "number": 2,
+     "pos": "D"
+    },
+    {
+     "player_id": 425733,
+     "name": "Estêvão",
+     "number": 41,
+     "pos": "F"
+    },
+    {
+     "player_id": 319572,
+     "name": "V. Barco",
+     "number": 4,
+     "pos": "M"
+    },
+    {
+     "player_id": 419582,
+     "name": "Geovany Tcherno Quenda",
+     "number": 23,
+     "pos": "M"
+    },
+    {
+     "player_id": 203762,
+     "name": "E. Emegha",
+     "number": 22,
+     "pos": "F"
+    },
+    {
+     "player_id": 340151,
+     "name": "M. Penders",
+     "number": 39,
+     "pos": "G"
+    }
+   ]
+  }
+ ],
+ "result": null,
+ "player_stats": null
+}

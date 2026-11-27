@@ -1,8 +1,8 @@
 {
- "updated_utc": "2026-11-26T21:43:11Z",
+ "updated_utc": "2026-11-27T21:44:55Z",
  "source": "goal",
  "count": 4571,
- "finished": 4321,
+ "finished": 4322,
  "fixtures": [
   {
    "home": "Athletic Club",
@@ -2747,10 +2747,10 @@
    "home": "Levante",
    "away": "Racing de Santander",
    "utcDate": "2026-11-27T20:00:00.000Z",
-   "matchStatus": "SCHEDULED",
+   "matchStatus": "FINISHED",
    "score": {
-    "home": null,
-    "away": null
+    "home": 1,
+    "away": 2
    },
    "season": null
   },

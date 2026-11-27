@@ -1,8 +1,8 @@
 {
- "updated_utc": "2026-11-26T21:42:43Z",
+ "updated_utc": "2026-11-27T21:44:19Z",
  "source": "goal",
  "count": 571,
- "finished": 449,
+ "finished": 450,
  "fixtures": [
   {
    "home": "Goa",
@@ -1339,10 +1339,10 @@
    "home": "Inter Kashi",
    "away": "Churchill Brothers",
    "utcDate": "2026-11-27T14:00:00.000Z",
-   "matchStatus": "SCHEDULED",
+   "matchStatus": "FINISHED",
    "score": {
-    "home": null,
-    "away": null
+    "home": 0,
+    "away": 1
    },
    "season": null
   },

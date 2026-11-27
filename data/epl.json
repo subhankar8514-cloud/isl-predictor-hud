@@ -1,8 +1,8 @@
 {
- "updated_utc": "2026-11-26T21:42:57Z",
+ "updated_utc": "2026-11-27T21:44:38Z",
  "source": "goal",
  "count": 4859,
- "finished": 4589,
+ "finished": 4590,
  "fixtures": [
   {
    "home": "Arsenal FC",
@@ -2967,10 +2967,10 @@
    "home": "Nottingham Forest",
    "away": "Chelsea",
    "utcDate": "2026-11-27T20:00:00.000Z",
-   "matchStatus": "SCHEDULED",
+   "matchStatus": "FINISHED",
    "score": {
-    "home": null,
-    "away": null
+    "home": 3,
+    "away": 1
    },
    "season": null
   },

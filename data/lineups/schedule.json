@@ -1,32 +1,8 @@
 {
- "updated_utc": "2026-11-27T03:52:39.427699+00:00",
+ "updated_utc": "2026-11-28T03:49:25.217939+00:00",
  "season": 2026,
- "count": 11,
+ "count": 20,
  "fixtures": [
-  {
-   "fixture_id": 1642201,
-   "league_id": 323,
-   "league": "Indian Super League",
-   "kickoff_utc": "2026-11-27T14:00:00+00:00",
-   "home": "Inter Kashi",
-   "away": "Churchill Brothers"
-  },
-  {
-   "fixture_id": 1557485,
-   "league_id": 39,
-   "league": "Premier League",
-   "kickoff_utc": "2026-11-27T20:00:00+00:00",
-   "home": "Nottingham Forest",
-   "away": "Chelsea"
-  },
-  {
-   "fixture_id": 1570468,
-   "league_id": 140,
-   "league": "La Liga",
-   "kickoff_utc": "2026-11-27T20:00:00+00:00",
-   "home": "Levante",
-   "away": "Racing Santander"
-  },
   {
    "fixture_id": 1570463,
    "league_id": 140,
@@ -90,6 +66,102 @@
    "kickoff_utc": "2026-11-28T20:00:00+00:00",
    "home": "Real Madrid",
    "away": "Alaves"
+  },
+  {
+   "fixture_id": 1642202,
+   "league_id": 323,
+   "league": "Indian Super League",
+   "kickoff_utc": "2026-11-29T11:30:00+00:00",
+   "home": "Goa",
+   "away": "Kerala Blasters"
+  },
+  {
+   "fixture_id": 1557480,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-29T12:00:00+00:00",
+   "home": "Everton",
+   "away": "Liverpool"
+  },
+  {
+   "fixture_id": 1570472,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-29T13:00:00+00:00",
+   "home": "Valencia",
+   "away": "Osasuna"
+  },
+  {
+   "fixture_id": 1642203,
+   "league_id": 323,
+   "league": "Indian Super League",
+   "kickoff_utc": "2026-11-29T14:00:00+00:00",
+   "home": "East Bengal II",
+   "away": "ATK Mohun Bagan"
+  },
+  {
+   "fixture_id": 1557478,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-29T14:05:00+00:00",
+   "home": "Brighton",
+   "away": "Newcastle"
+  },
+  {
+   "fixture_id": 1557479,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-29T14:05:00+00:00",
+   "home": "Crystal Palace",
+   "away": "Hull City"
+  },
+  {
+   "fixture_id": 1557481,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-29T14:05:00+00:00",
+   "home": "Fulham",
+   "away": "Bournemouth"
+  },
+  {
+   "fixture_id": 1557486,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-29T14:05:00+00:00",
+   "home": "Sunderland",
+   "away": "Tottenham"
+  },
+  {
+   "fixture_id": 1570465,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-29T15:15:00+00:00",
+   "home": "Deportivo La Coruna",
+   "away": "Barcelona"
+  },
+  {
+   "fixture_id": 1557477,
+   "league_id": 39,
+   "league": "Premier League",
+   "kickoff_utc": "2026-11-29T16:30:00+00:00",
+   "home": "Arsenal",
+   "away": "Manchester City"
+  },
+  {
+   "fixture_id": 1570464,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-29T17:30:00+00:00",
+   "home": "Celta Vigo",
+   "away": "Villarreal"
+  },
+  {
+   "fixture_id": 1570471,
+   "league_id": 140,
+   "league": "La Liga",
+   "kickoff_utc": "2026-11-29T20:00:00+00:00",
+   "home": "Real Sociedad",
+   "away": "Sevilla"
   }
  ]
 }
